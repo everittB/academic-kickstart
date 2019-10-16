@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-09-03"
   date_end = ""
   description = """
-  Responsibilities include:
+  Achievements:
   
   * Coming Soon
   """
@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = "2018-08-30"
   description = """
-  Responsibilites Include:  
+  Achievements:  
 
 * Produced management dashboards using Power-BI to consolidate hundreds of thousands of data points into key metrics that informed strategic decision making  
 
@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   date_start = "2016-01-04"
   date_end = "2016-04-22"
   description = """
-  Responsibilites Include:  
+  Achievements:  
 
 * Produced management dashboards using Power-BI to consolidate hundreds of thousands of data points into key metrics that informed strategic decision making  
 
